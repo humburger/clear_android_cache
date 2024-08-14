@@ -1,0 +1,1 @@
+Script works for Android tablet 4, but newers could not work because of memory protection. This is is mostly for fun to test around deleting cached information for application on Android. Useful for applications which save advertisement data in cache folder and run advertisement videos even if wifi is turned off.
